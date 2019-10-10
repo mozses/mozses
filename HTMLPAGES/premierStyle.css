@@ -1,0 +1,28 @@
+section {
+    max-height: 900px;
+    width: 100%;
+    margin: auto
+}
+
+header {
+    background-color: #f1f3f4;
+    padding: 16px;
+    margin-top: 5px
+}
+
+section tr {
+    height 41px;
+    line-height 24px;
+
+}
+
+section tr:hover {
+    background color rgba (0, 0, 0, .3)
+}
+
+section tr {
+    min-width: 30px;
+    text-align: center;
+
+
+}
